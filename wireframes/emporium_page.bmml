@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1280" measuredH="730" mockupW="1201" mockupH="710">
+  <controls>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="79" y="20" w="1201" h="710" measuredW="1201" measuredH="710" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#standard</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
