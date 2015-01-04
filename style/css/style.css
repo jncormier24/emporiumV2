@@ -9,20 +9,21 @@ nav.navbar > div,
 #left {
   max-width: 700px; }
 
+.box {
+  display: block;
+  padding: 5px;
+  border: 1px solid #46C2B8;
+  border-radius: 5px;
+  box-shadow: 5px 5px #ddd; }
+
 #right {
   width: 250px; }
 
 .post {
   width: 320px;
   max-height: 350px;
-  padding-right: 40px; }
-
-.box {
-  display: block;
-  padding: 5px;
-  border: 1px solid black;
-  border-radius: 5px;
-  box-shadow: 5px 5px #ccc; }
+  margin-right: 15px;
+  margin-bottom: 15px; }
 
 .post:nth-child(2n+1) {
   height: 320px; }

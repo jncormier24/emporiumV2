@@ -6,25 +6,25 @@
         <override controlID="1" x="0" y="73" w="1201" h="70"/>
         <override controlID="2" x="110" y="73" w="980" h="70"/>
         <override controlID="3" x="572" y="95" w="56" h="27"/>
+        <override controlID="4" x="647" y="95" w="57" h="27"/>
         <override controlID="5" x="719" y="95" w="70" h="27"/>
         <override controlID="6" x="816" y="95" w="197" h="26"/>
         <override controlID="7" x="1013" y="95" w="62" h="27"/>
         <override controlID="8" x="125" y="80" w="77" h="57"/>
-        <override controlID="4" x="647" y="95" w="57" h="27"/>
         <src>./assets/symbols.bmml#standard</src>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="892" y="213" w="300" h="400" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="907" y="228" w="-1" h="-1" measuredW="257" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="939" y="213" w="250" h="400" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="954" y="228" w="210" h="-1" measuredW="257" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Some%20text%20about%20searches%20or%20popular%20posts</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="213" w="320" h="161" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="555" y="213" w="320" h="105" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="555" y="333" w="320" h="161" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="570" y="213" w="320" h="105" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="570" y="333" w="320" h="161" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="397" w="320" h="161" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="555" y="514" w="320" h="198" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="570" y="513" w="320" h="198" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
     <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="211" y="576" w="320" h="105" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="319" y="241" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
@@ -54,6 +54,26 @@
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="677" y="558" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Recent%20Post</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="954" y="255" w="210" h="-1" measuredW="257" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20about%20searches%20or%20popular%20posts</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="954" y="283" w="210" h="-1" measuredW="257" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20about%20searches%20or%20popular%20posts</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="954" y="312" w="210" h="-1" measuredW="257" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20about%20searches%20or%20popular%20posts</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="954" y="338" w="210" h="-1" measuredW="257" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20about%20searches%20or%20popular%20posts</text>
       </controlProperties>
     </control>
   </controls>
